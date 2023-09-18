@@ -15,7 +15,7 @@ ___
 
 
 <p align="center" >
-  <a href="https://t.me/aminkhoy78/">
+  <a href="https://t.me/Mohammad99100">
     <img src="https://img.shields.io/badge/Telegram-@Mohammadd99100-blue?style=flat&logo=telegram" />
   </a>
 </p>
