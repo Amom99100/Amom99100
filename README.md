@@ -1,7 +1,5 @@
 
-<a><img src="https://github.com/Amom99100/Amom99100/blob/main/icons8-adobe-after-effects-30.png?raw=true"></a>
-
-# من کی‌ ام؟ 
+# من کی‌ ام؟ 😀
 <img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
 
 <h2 align="center">سلام 🖐 من محمد امین سعیدی راد هستم</h2>
